@@ -1,0 +1,42 @@
+CRITICAL - 2022-08-11 18:47:15 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(760): require()
+ 2 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 3 SYSTEMPATH\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+ 5 ROOTPATH\spark(98): CodeIgniter\CLI\Console->run()
+CRITICAL - 2022-08-11 18:49:11 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 38.
+ 1 SYSTEMPATH\CodeIgniter.php(760): require()
+ 2 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 3 SYSTEMPATH\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+ 5 ROOTPATH\spark(98): CodeIgniter\CLI\Console->run()
+CRITICAL - 2022-08-11 18:50:55 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(760): require()
+ 2 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 3 SYSTEMPATH\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+ 5 ROOTPATH\spark(98): CodeIgniter\CLI\Console->run()
+CRITICAL - 2022-08-11 18:51:51 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 56.
+ 1 SYSTEMPATH\CodeIgniter.php(760): require()
+ 2 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 3 SYSTEMPATH\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+ 5 ROOTPATH\spark(98): CodeIgniter\CLI\Console->run()
+CRITICAL - 2022-08-11 18:52:43 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(760): require()
+ 2 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 3 SYSTEMPATH\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+ 5 ROOTPATH\spark(98): CodeIgniter\CLI\Console->run()
+CRITICAL - 2022-08-11 18:52:55 --> Call to a member function resource() on null
+in APPPATH\Config\Routes.php on line 24.
+ 1 SYSTEMPATH\CodeIgniter.php(760): require()
+ 2 SYSTEMPATH\CodeIgniter.php(406): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 3 SYSTEMPATH\CodeIgniter.php(336): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\CLI\Console.php(48): CodeIgniter\CodeIgniter->run()
+ 5 ROOTPATH\spark(98): CodeIgniter\CLI\Console->run()
